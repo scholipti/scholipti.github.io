@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://scholipti.github.io/scholipti.txt.gz
+Sitemap: https://scholipti.github.io/app/scholipti.txt.gz
+Sitemap: https://scholipti.github.io/assets/scholipti.txt.gz
+Sitemap: https://scholipti.github.io/css/scholipti.txt.gz
+Sitemap: https://scholipti.github.io/includes/scholipti.txt.gz
+Sitemap: https://scholipti.github.io/item/scholipti.txt.gz
+Sitemap: https://scholipti.github.io/src/scholipti.txt.gz
